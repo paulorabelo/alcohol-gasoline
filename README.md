@@ -37,7 +37,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ## Download do  APK
 
-1. Clique [aqui](https://github.com/paulorabelo/alcohol-gasoline/tree/main/assets_readme/release_apkalcohol-gasoline.apk) usando seu dispositivo Android.
+1. Clique [aqui](https://github.com/paulorabelo/alcohol-gasoline/blob/main/assets_readme/release_apkalcohol-gasoline.apk) usando seu dispositivo Android.
 
 ## Contribuição
 
@@ -45,4 +45,4 @@ Contribuições são bem-vindas! Se você encontrar algum problema ou tiver suge
 
 ## Licença
 
-Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.
+Este projeto está sob a licença MIT.
