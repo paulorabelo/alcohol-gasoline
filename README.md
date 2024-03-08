@@ -10,8 +10,15 @@ Este é um aplicativo Android simples que calcula a relação entre o preço do 
 
 ## Capturas de Tela
 
-![Tela Inicial](screenshots/tela_inicial.png)
-![Resultado do Cálculo](screenshots/resultado_calculo.png)
+
+
+| <img title="" src="assets_readme/tela_01_a_g.png" alt="Tela inicial" width="259" data-align="left"> | <img src="assets_readme/tela_03_a_g.png" title="" alt="Resultado do Cálculo" width="259"> |
+| --------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+
+
+
+
+
 
 ## Tecnologias Utilizadas
 
@@ -22,11 +29,15 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 - **XML**: Utilizado para criar a interface do usuário (UI) do aplicativo.
 - **Git**: Sistema de controle de versão para gerenciar o código-fonte.
 
-## Como Executar o Aplicativo
+## Como Executar esse Projeto
 
 1. Clone este repositório: `git clone https://github.com/paulorabelo/alcohol-gasoline.git`
 2. Abra o projeto no Android Studio.
 3. Execute o aplicativo em um emulador ou dispositivo Android.
+
+## Download do  APK
+
+1. Clique [aqui](assets_readme/release_apk/alcohol-gasoline.apk) usando seu dispositivo Android.
 
 ## Contribuição
 
