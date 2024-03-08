@@ -37,7 +37,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ## Download do  APK
 
-1. Clique [aqui](assets_readme/release_apk/alcohol-gasoline.apk) usando seu dispositivo Android.
+1. Clique [aqui](https://github.com/paulorabelo/alcohol-gasoline/tree/main/assets_readme/release_apkalcohol-gasoline.apk) usando seu dispositivo Android.
 
 ## Contribuição
 
