@@ -35,7 +35,3 @@ Contribuições são bem-vindas! Se você encontrar algum problema ou tiver suge
 ## Licença
 
 Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.
-
----
-
-Espero que isso ajude! Lembre-se de personalizar o README com informações específicas do seu projeto e adicionar qualquer outra seção relevante. Boa sorte com o seu projeto! 🚀
