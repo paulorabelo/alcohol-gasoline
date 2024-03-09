@@ -2,13 +2,17 @@
 
 Este é um aplicativo Android simples que calcula a relação entre o preço do álcool e da gasolina para ajudar os usuários a decidirem qual combustível é mais vantajoso para abastecer seus veículos.
 
+
+
 <img src="./app/src/main/ic_launcher-playstore.png" title="" alt="" width="85">
 
 ## Funcionalidades
 
-- Insira o preço do álcool e da gasolina.
-- O aplicativo calculará a relação entre os preços e indicará qual combustível é mais econômico.
-- Interface intuitiva e fácil de usar.
+- [x] Insira o preço do etanol e da gasolina.
+- [x] O aplicativo calculará a relação entre os preços e indicará qual combustível é mais econômico.
+- [x] Interface intuitiva e fácil de usar.
+- [ ] Ajuste autonomia.
+- [ ] Nova UI.
 
 ## Capturas de Tela
 
@@ -19,6 +23,7 @@ Este é um aplicativo Android simples que calcula a relação entre o preço do 
 
 <div>
     <img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <br>
 </div>
 
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
