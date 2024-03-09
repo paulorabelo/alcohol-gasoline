@@ -2,6 +2,8 @@
 
 Este é um aplicativo Android simples que calcula a relação entre o preço do álcool e da gasolina para ajudar os usuários a decidirem qual combustível é mais vantajoso para abastecer seus veículos.
 
+<img src="./app/src/main/ic_launcher-playstore.png" title="" alt="" width="85">
+
 ## Funcionalidades
 
 - Insira o preço do álcool e da gasolina.
