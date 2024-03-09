@@ -10,17 +10,14 @@ Este é um aplicativo Android simples que calcula a relação entre o preço do 
 
 ## Capturas de Tela
 
-
-
 | <img title="" src="assets_readme/tela_01_a_g.png" alt="Tela inicial" width="259" data-align="left"> | <img src="assets_readme/tela_03_a_g.png" title="" alt="Resultado do Cálculo" width="259"> |
 | --------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
 
-
-
-
-
-
 ## Tecnologias Utilizadas
+
+<div>
+    <img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+</div>
 
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
@@ -38,6 +35,8 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 ## Download do  APK
 
 1. Clique [aqui](https://drive.google.com/file/d/1HeLf263V-nYkNIgAIzVW_IE0hjSIV1U0/view?usp=drive_link) usando seu dispositivo Android.
+2. Seu dispositivo irá solicitar a instalação do pacote pelo instalador do aparelho.
+3. Dê permissão para instalar apps de fontes desconhecidas.
 
 ## Contribuição
 
